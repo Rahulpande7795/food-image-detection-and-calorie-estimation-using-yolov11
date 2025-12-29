@@ -2,6 +2,12 @@
 ### Powered by YOLOv11
 
 
+
+<p align="center">
+<img width="781" height="748" alt="Screenshot 2025-12-29 085050" src="https://github.com/user-attachments/assets/bff6e152-0677-4382-8f3e-0e8524909f36" />
+</p>
+
+
 This project focuses on **automated food detection and calorie estimation from images** using the YOLOv11 object detection framework. It detects multiple food items in a single image and provides an estimated calorie value for each detected item.
 
 ---
